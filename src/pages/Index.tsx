@@ -51,7 +51,7 @@ export default function Index() {
             className="text-lg md:text-xl text-muted-foreground mb-10 max-w-xl mx-auto animate-fade-up"
             style={{ animationDelay: '0.25s', opacity: 0 }}
           >
-            Эй, подруга! Залетай ко мне в игру — будем строить, рубиться и угарать вместе. Только ты и я 💜
+            Эй, подруга! Залетай ко мне в игру — будем строить, рубиться и угарать вместе 🎮
           </p>
 
           <div
